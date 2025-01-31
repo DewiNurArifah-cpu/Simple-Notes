@@ -1,6 +1,6 @@
 # 📝 Simple Notes App
 
-Simple Notes App adalah Tampilan aplikasi pencatatan berbasis web yang dibuat dengan React.js.
+Simple Notes App merupakan proyek akhir kelas Dicoding "Belajar Membuat Aplikasi Web dengan React", membuat tampilan aplikasi pencatatan berbasis web yang dibuat dengan React.js.
 
 ## 🚀 Fitur
 - 🖊️ Tambah, hapus, dan arsip catatan
